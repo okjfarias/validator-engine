@@ -15,6 +15,7 @@
 	<version>1.0.0</version>
 	<name>Validator Engine</name>
 	<description>Fluent Validation Engine with i18n support for Spring Boot applications</description>
+	<url>https://github.com/okjfarias/validator-engine</url>
 
 	<licenses>
 		<license>
